@@ -1,0 +1,8 @@
+# Data Processing
+numpy
+pandas
+
+
+# Utilities
+tqdm
+requests
